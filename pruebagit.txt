@@ -1,0 +1,1 @@
+Prueba de integración entre LAMP y Git en la carpeta php2627
